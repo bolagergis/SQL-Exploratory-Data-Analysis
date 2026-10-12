@@ -8,6 +8,23 @@ This is my first attempt at working with SQL for data analysis. I followed along
 
 I used VS Code as my editor and connected to SQL Server to run these queries.
 
+
+## Project Objectives
+
+- Explore and understand the structure of the Data Warehouse.
+- Analyze customer, product, and sales data using SQL.
+- Calculate key business metrics and performance indicators.
+- Identify sales trends and compare performance across products, categories, customers, and countries.
+- Practice SQL techniques used in real-world data analysis.
+
+## Tools & Technologies
+
+- SQL Server: Querying and analyzing data.
+- Visual Studio Code (VS Code): Writing and executing SQL queries.
+- Docker Desktop: Running SQL Server in a containerized environment.
+- GitHub: Version control and project documentation
+
+
 ## What I Practiced
 
 - Connecting to a SQL Server database
@@ -15,6 +32,9 @@ I used VS Code as my editor and connected to SQL Server to run these queries.
 - Writing queries to answer business questions
 - Using joins, aggregations, and window functions
 - Understanding the difference between dimensions and measures
+- Build reusable SQL reports to support data-driven decision-making
+
+
 
 ## Database Structure
 
@@ -71,11 +91,5 @@ Found:
 - Top 5 products by revenue
 - Worst 5 products by revenue
 
-## Key Queries
-
-Here are some examples of what I wrote:
-
-**Finding total sales:**
-```sql
-SELECT SUM(sales_amount) AS total_sales
-FROM gold.fact_sales;
+## Learning Context
+- This project was developed as a hands-on learning project while following The Complete SQL Bootcamp:SQL Exploratory Data Analysis Projekt
