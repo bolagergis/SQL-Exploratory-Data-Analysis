@@ -92,4 +92,4 @@ Found:
 - Worst 5 products by revenue
 
 ## Learning Context
-- This project was developed as a hands-on learning project while following The Complete SQL Bootcamp:SQL Exploratory Data Analysis Projekt
+This project was developed as a hands-on learning project while following The Complete SQL Bootcamp:SQL Exploratory Data Analysis Projekt
