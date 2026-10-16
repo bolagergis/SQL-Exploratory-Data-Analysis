@@ -19,10 +19,10 @@ I used VS Code as my editor and connected to SQL Server to run these queries.
 
 ## Tools & Technologies
 
-- SQL Server: Querying and analyzing data.
-- Visual Studio Code (VS Code): Writing and executing SQL queries.
-- Docker Desktop: Running SQL Server in a containerized environment.
-- GitHub: Version control and project documentation
+- **SQL Server**: Querying and analyzing data.
+- **Visual Studio Code (VS Code)**: Writing and executing SQL queries.
+- **Docker Desktop**: Running SQL Server in a containerized environment.
+- **GitHub**: Version control and project documentation
 
 
 ## What I Practiced
